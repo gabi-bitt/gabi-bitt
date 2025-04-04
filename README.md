@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil 😁
 
-<img src="https://dinopixel.com/img/big/38966.png" width="300">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 
 <div>
   <a href="https://github.com/gabi-bitt">
@@ -16,7 +16,7 @@
 
 <br>
 
-### Me segue nas redes abaixo!
+### Me siga nas redes abaixo!
 
 <div> 
   <a href="https://instagram.com/gabitt7" target="_blank">
