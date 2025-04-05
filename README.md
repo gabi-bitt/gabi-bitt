@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+<img src="(https://i.pinimg.com/originals/7d/3e/73/7d3e733fe8e79b3faa6120c7893421ba.gif)" width="300">
 
 <br>
 
