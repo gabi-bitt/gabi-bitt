@@ -1,5 +1,10 @@
 ### Bem-vindo(a) ao meu perfil 😁
 
+Sou a **Gabriela Bittencourt**, estudante de **Ciência da Computação** apaixonada por tecnologia e desenvolvimento.  
+Atualmente, estou explorando **desenvolvimento web**, **programação em C** e fundamentos de **Linux**, sempre em busca de aprender mais e aplicar meus conhecimentos em projetos práticos.  
+
+Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que refletem meu aprendizado contínuo e minha evolução na área de tecnologia. 🚀  
+
 <div>
    <a href="https://github.com/gabi-bitt">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-bitt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
