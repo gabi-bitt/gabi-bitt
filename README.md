@@ -7,7 +7,7 @@ Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que re
 
 Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que refletem meu aprendizado contínuo e minha evolução na área de tecnologia. 🚀  
 
-🔗 [Acesse meu Portfólio](https://www.canva.com/design/DAGymTA7Gzs/luQe9vfkA_YPCz9nxOE4gw/view?utm_content=DAGymTA7Gzs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2fd6c0d3fa)
+🔗 [Acesse meu Portfólio]([https://www.canva.com/design/DAGymTA7Gzs/luQe9vfkA_YPCz9nxOE4gw/view?utm_content=DAGymTA7Gzs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2fd6c0d3fa](https://gabrielabittencourt-portfolio.my.canva.site/real))
 
 <div>
    <a href="https://github.com/gabi-bitt">
