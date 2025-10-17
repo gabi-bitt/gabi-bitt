@@ -33,6 +33,5 @@ Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que re
 <div> 
   <a href="https://instagram.com/gabitt7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/714856301511049309" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="/in/gabriela-bittencourt-37301a359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gabriela-bittencourt-37301a359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
