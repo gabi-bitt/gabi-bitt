@@ -1,9 +1,8 @@
-### Bem-vindo(a) ao meu perfil 😁
+### Bem-vindo(a) ao meu perfil 
 
-Sou a **Gabriela Bittencourt**, estudante de **Ciência da Computação** apaixonada por tecnologia e desenvolvimento.  
-Atualmente, estou explorando **desenvolvimento web**, **programação em C** e fundamentos de **Linux**, sempre em busca de aprender mais e aplicar meus conhecimentos em projetos práticos.  
+Sou a **Gabriela Bittencourt**, estudante de **Ciência da Computação**
 
-Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que refletem meu aprendizado contínuo e minha evolução na área de tecnologia. 🚀  
+Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que refletem meu aprendizado contínuo e minha evolução na área de tecnologia.  
 
 🔗 [Acesse meu Portfólio](https://gabrielabittencourt-portfolio.my.canva.site/real)
 
