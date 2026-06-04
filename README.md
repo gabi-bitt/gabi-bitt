@@ -1,8 +1,7 @@
 ### Bem-vindo(a) ao meu perfil 
 
 Sou a **Gabriela Bittencourt**, estudante de **Ciência da Computação**
-Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais, que refletem meu aprendizado contínuo e minha evolução na área de tecnologia. 🚀  
-
+Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais
 🔗 [Acesse meu Portfólio](https://gabrielabittencourt-portfolio.my.canva.site/real)
 
 
