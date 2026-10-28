@@ -27,7 +27,9 @@ Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais
   <a href="https://www.linkedin.com/in/gabriela-bittencourt-37301a359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
+<img src="dino.gif" align="right" width="300" alt="Dinossauro correndo" />
+
 ### Estrutura do Repositório
 
 - **/academicos** → Projetos e trabalhos realizados durante a graduação.  
-- **/pessoal** → Projetos pessoais e experimentais de estudo.  
+- **/pessoal** → Projetos pessoais e experimentais de estudo.
