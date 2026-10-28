@@ -3,9 +3,6 @@
 Sou a **Gabriela Bittencourt**, estudante de **Ciência da Computação**
 Aqui você vai encontrar alguns dos meus projetos acadêmicos e pessoais
 
-🔗 [Acesse meu Portfólio](https://gabrielabittencourt-portfolio.my.canva.site/real)
-
-
 <p align="center">
   <img src="https://github-readme-stats-ten-xi-52.vercel.app/api?username=gabi-bitt&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-ten-xi-52.vercel.app/api/top-langs/?username=gabi-bitt&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
